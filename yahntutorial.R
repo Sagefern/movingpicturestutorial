@@ -11,6 +11,3 @@ load_package <- function(p) {
 invisible(lapply(c(p1,p2), load_package))
 
 ##Building a phyloseq object
-
-git config --global user.email "e0772895@u.nus.edu"
-git config --global user.name "Charlotte"
